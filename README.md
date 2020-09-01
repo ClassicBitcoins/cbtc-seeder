@@ -60,3 +60,10 @@ Re-attach to screen with `screen -r seeder`
 You can test if your seeder is responding with node IPs type typing:
 
 `dig seeder1.example.com A`
+
+- If you decided to run Ubuntu 18.04+ you might need to turn off systemd-resolved from root by entering the following commands:
+
+```
+sudo systemctl disable systemd-resolved
+sudo systemctl stop systemd-resolved
+```
