@@ -35,6 +35,8 @@ Provide your sub-domain name created in Step 1 to BitcoinZ Team to update seeder
 
 `su seeder`
 
+`cd ~`
+
 ###### Step 3 - download and build the seeder from source
 
 `git clone https://github.com/btcz/bitcoinz-seeder.git`
