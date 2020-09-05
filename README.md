@@ -15,11 +15,6 @@ Create a 'vps1' sub-domain A record in DNS
 Example: vps1.example.com A record pointed to YOUR_VPS_IP_ADDRESS_HERE
 
 ###### Step 3
-Create a 'seeder1' sub-domain A record in DNS
-
-Example: seeder1.example.com A record pointed to YOUR_VPS_IP_ADDRESS_HERE
-
-###### Step 4
 Provide your sub-domain name created in Step 1 to BitcoinZ Team to update seeder code and wait until update is completed.
 
 ### B. Install and Compile BitcoinZ seeder
