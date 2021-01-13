@@ -410,9 +410,8 @@ extern "C" void* ThreadStats(void*) {
 }
 
 static const string mainnet_seeds[] = {
-        "btzseed.blockhub.info",
-        "btzseed2.blockhub.info",
-        "seed.btcz.app",
+        "dnsseed.bitclassic.info",
+        "dnsseed.classicbitcoin.info",
         ""
     };
 static const string testnet_seeds[] = {""};
